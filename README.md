@@ -1,4 +1,4 @@
-### Economic_Connectedness_Analysis_and_Visualization
+### Economic Connectedness Analysis and Visualization
 
 In this repository aims to provide a comprehensive replication of the key figures from the papers, allowing you to delve into the intricate relationship between social capital and economic outcomes. 
 You will find interactive figures, scatter plots, and data visualizations that shed light on the geography of social capital in the United States, the impact of economic connectedness on upward income mobility, the correlation between economic connectedness, median household income, and upward mobility, and the analysis of friending bias and exposure in high schools.
